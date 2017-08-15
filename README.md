@@ -6,3 +6,5 @@ Project from ["腾讯Python课堂"](https://ke.qq.com/)
 
 ● Design Django + Ajax
 
+● Html, CSS, Bootstrap
+
